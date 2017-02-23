@@ -1,0 +1,88 @@
+2017/02/21 06:41:34 [error] 2081#2081: OCSP_check_validity() failed (SSL: error:2707307D:OCSP routines:OCSP_check_validity:status expired) while requesting certificate status, responder: ocsp.int-x3.letsencrypt.org
+2017/02/21 06:42:51 [error] 2081#2081: *1442913 directory index of "/usr/share/nginx/html/" is forbidden, client: 66.249.69.177, server: abhishekghosh.net, request: "GET / HTTP/1.1", host: "abhishekghosh.net"
+2017/02/21 07:06:02 [error] 2081#2081: *1443067 directory index of "/usr/share/nginx/html/" is forbidden, client: 60.191.38.77, server: abhishekghosh.net, request: "GET / HTTP/1.1", host: "31.14.138.110"
+2017/02/21 07:36:46 [error] 2081#2081: *1443217 directory index of "/var/www/html/abhishekghosh.pro/" is forbidden, client: 66.249.76.145, server: abhishekghosh.pro, request: "GET / HTTP/1.1", host: "abhishekghosh.pro"
+2017/02/21 07:46:42 [error] 2081#2081: OCSP_check_validity() failed (SSL: error:2707307D:OCSP routines:OCSP_check_validity:status expired) while requesting certificate status, responder: ocsp.int-x3.letsencrypt.org
+2017/02/21 08:19:43 [error] 2081#2081: *1443479 directory index of "/var/www/html/abhishekghosh.pro/" is forbidden, client: 157.55.39.252, server: abhishekghosh.pro, request: "GET / HTTP/1.1", host: "abhishekghosh.pro"
+2017/02/21 08:57:41 [error] 2081#2081: OCSP_check_validity() failed (SSL: error:2707307D:OCSP routines:OCSP_check_validity:status expired) while requesting certificate status, responder: ocsp.int-x3.letsencrypt.org
+2017/02/21 08:57:49 [error] 2081#2081: *1443736 directory index of "/usr/share/nginx/html/" is forbidden, client: 81.183.228.68, server: abhishekghosh.net, request: "GET / HTTP/1.0"
+2017/02/21 09:52:55 [error] 2081#2081: *1444093 directory index of "/usr/share/nginx/html/" is forbidden, client: 144.76.99.185, server: abhishekghosh.net, request: "GET /?page-test HTTP/1.1", host: "abhishekghosh.net", referrer: "abhishekghosh.net"
+2017/02/21 09:55:23 [error] 2081#2081: *1444094 directory index of "/usr/share/nginx/html/" is forbidden, client: 37.59.9.55, server: abhishekghosh.net, request: "GET // HTTP/1.1", host: "31.14.138.110"
+2017/02/21 10:18:16 [error] 2081#2081: OCSP_check_validity() failed (SSL: error:2707307D:OCSP routines:OCSP_check_validity:status expired) while requesting certificate status, responder: ocsp.int-x3.letsencrypt.org
+2017/02/21 10:21:55 [error] 2081#2081: OCSP_check_validity() failed (SSL: error:2707307D:OCSP routines:OCSP_check_validity:status expired) while requesting certificate status, responder: ocsp.int-x3.letsencrypt.org
+2017/02/21 10:24:04 [error] 2081#2081: OCSP_check_validity() failed (SSL: error:2707307D:OCSP routines:OCSP_check_validity:status expired) while requesting certificate status, responder: ocsp.int-x3.letsencrypt.org
+2017/02/21 11:10:07 [error] 2081#2081: OCSP_check_validity() failed (SSL: error:2707307D:OCSP routines:OCSP_check_validity:status expired) while requesting certificate status, responder: ocsp.int-x3.letsencrypt.org
+2017/02/21 19:36:15 [warn] 1477#1477: duplicate value "TLSv1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/21 19:36:15 [warn] 1477#1477: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/21 19:36:15 [warn] 1477#1477: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/21 19:36:15 [warn] 1477#1477: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:7
+2017/02/21 19:36:15 [warn] 1477#1477: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:51
+2017/02/21 19:36:15 [warn] 1477#1477: duplicate value "TLSv1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/21 19:36:15 [warn] 1477#1477: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/21 19:36:15 [warn] 1477#1477: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/21 19:36:15 [info] 1477#1477: Using 32768KiB of shared memory for push module in /etc/nginx/nginx.conf:63
+2017/02/21 19:36:21 [warn] 1893#1893: duplicate value "TLSv1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/21 19:36:21 [warn] 1893#1893: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/21 19:36:21 [warn] 1893#1893: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/21 19:36:21 [warn] 1893#1893: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:7
+2017/02/21 19:36:21 [warn] 1893#1893: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:51
+2017/02/21 19:36:21 [warn] 1893#1893: duplicate value "TLSv1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/21 19:36:21 [warn] 1893#1893: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/21 19:36:21 [warn] 1893#1893: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/21 19:36:24 [error] 1897#1897: OCSP_check_validity() failed (SSL: error:2707307D:OCSP routines:OCSP_check_validity:status expired) while requesting certificate status, responder: ocsp.int-x3.letsencrypt.org
+2017/02/21 19:38:12 [error] 1897#1897: *18 directory index of "/usr/share/nginx/html/" is forbidden, client: 223.191.51.75, server: abhishekghosh.net, request: "GET / HTTP/1.1", host: "31.14.138.110"
+2017/02/21 19:40:18 [error] 1897#1897: *33 directory index of "/usr/share/nginx/html/" is forbidden, client: 223.191.51.75, server: abhishekghosh.net, request: "GET / HTTP/1.1", host: "31.14.138.110"
+2017/02/21 19:42:16 [error] 1897#1897: *46 directory index of "/usr/share/nginx/html/" is forbidden, client: 223.191.51.75, server: abhishekghosh.net, request: "GET / HTTP/1.1", host: "abhishekghosh.net"
+2017/02/21 19:47:40 [error] 1897#1897: *118 directory index of "/var/www/html/abhishekghosh.pro/" is forbidden, client: 223.191.51.75, server: abhishekghosh.pro, request: "GET / HTTP/1.1", host: "abhishekghosh.pro"
+2017/02/21 19:47:41 [error] 1897#1897: *119 open() "/var/www/html/abhishekghosh.pro/favicon.ico" failed (2: No such file or directory), client: 223.191.51.75, server: abhishekghosh.pro, request: "GET /favicon.ico HTTP/1.1", host: "abhishekghosh.pro", referrer: "http://abhishekghosh.pro/"
+2017/02/23 03:00:09 [warn] 1473#1473: duplicate value "TLSv1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:00:09 [warn] 1473#1473: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:00:09 [warn] 1473#1473: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:00:09 [warn] 1473#1473: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:7
+2017/02/23 03:00:09 [warn] 1473#1473: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:51
+2017/02/23 03:00:09 [warn] 1473#1473: duplicate value "TLSv1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:00:09 [warn] 1473#1473: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:00:09 [warn] 1473#1473: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:00:09 [info] 1473#1473: Using 32768KiB of shared memory for push module in /etc/nginx/nginx.conf:63
+2017/02/23 03:00:15 [warn] 1879#1879: duplicate value "TLSv1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:00:15 [warn] 1879#1879: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:00:15 [warn] 1879#1879: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:00:15 [warn] 1879#1879: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:7
+2017/02/23 03:00:15 [warn] 1879#1879: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:51
+2017/02/23 03:00:15 [warn] 1879#1879: duplicate value "TLSv1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:00:15 [warn] 1879#1879: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:00:15 [warn] 1879#1879: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:01:49 [warn] 1444#1444: duplicate value "TLSv1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:01:49 [warn] 1444#1444: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:01:49 [warn] 1444#1444: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:01:49 [warn] 1444#1444: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:7
+2017/02/23 03:01:49 [warn] 1444#1444: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:51
+2017/02/23 03:01:49 [warn] 1444#1444: duplicate value "TLSv1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:01:49 [warn] 1444#1444: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:01:49 [warn] 1444#1444: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:01:49 [info] 1444#1444: Using 32768KiB of shared memory for push module in /etc/nginx/nginx.conf:63
+2017/02/23 03:01:50 [warn] 1768#1768: duplicate value "TLSv1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:01:50 [warn] 1768#1768: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:01:50 [warn] 1768#1768: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:01:50 [warn] 1768#1768: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:7
+2017/02/23 03:01:50 [warn] 1768#1768: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:51
+2017/02/23 03:01:50 [warn] 1768#1768: duplicate value "TLSv1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:01:50 [warn] 1768#1768: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:01:50 [warn] 1768#1768: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:26:32 [warn] 1435#1435: duplicate value "TLSv1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:26:32 [warn] 1435#1435: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:26:32 [warn] 1435#1435: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:26:32 [warn] 1435#1435: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:7
+2017/02/23 03:26:32 [warn] 1435#1435: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:51
+2017/02/23 03:26:32 [warn] 1435#1435: duplicate value "TLSv1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:26:32 [warn] 1435#1435: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:26:32 [warn] 1435#1435: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:26:32 [info] 1435#1435: Using 32768KiB of shared memory for push module in /etc/nginx/nginx.conf:63
+2017/02/23 03:26:33 [warn] 1753#1753: duplicate value "TLSv1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:26:33 [warn] 1753#1753: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:26:33 [warn] 1753#1753: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/abhishekghosh.pro.ssl.conf:13
+2017/02/23 03:26:33 [warn] 1753#1753: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:7
+2017/02/23 03:26:33 [warn] 1753#1753: invalid directive "spdy_headers_comp": ngx_http_spdy_module was superseded by ngx_http_v2_module in /etc/nginx/sites-enabled/default:51
+2017/02/23 03:26:33 [warn] 1753#1753: duplicate value "TLSv1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:26:33 [warn] 1753#1753: duplicate value "TLSv1.1" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
+2017/02/23 03:26:33 [warn] 1753#1753: duplicate value "TLSv1.2" in /etc/nginx/sites-enabled/dr.abhishekghosh.net.conf:57
