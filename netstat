@@ -1,0 +1,78 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0    312 abhishekghosh:ssh       27.63.150.219:24397     ESTABLISHED
+tcp6       0      0 2a00:6d40:40:506e:https 2601:641:200:a450:50898 ESTABLISHED
+tcp6       0      0 2a00:6d40:40:506e:https 2a00:6d40:40:506e:46344 TIME_WAIT
+tcp6       0      0 2a00:6d40:40:506e:https 2a00:6d40:40:506e:46348 TIME_WAIT
+tcp6       0      0 2a00:6d40:40:506e:https fulltextrobot-2a0:15394 TIME_WAIT
+tcp6       0      0 2a00:6d40:40:506e:https 2401:4900:884:5ca:52606 ESTABLISHED
+udp        0      0 abhishekghosh:47384     google-public-dn:domain ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  2      [ ]         DGRAM                    18581    /run/user/0/systemd/notify
+unix  3      [ ]         DGRAM                    10016    /run/systemd/notify
+unix  7      [ ]         DGRAM                    10024    /run/systemd/journal/socket
+unix  2      [ ]         DGRAM                    10027    /run/systemd/journal/syslog
+unix  10     [ ]         DGRAM                    10028    /run/systemd/journal/dev-log
+unix  3      [ ]         STREAM     CONNECTED     14577    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17188
+unix  2      [ ]         DGRAM                    18553
+unix  3      [ ]         STREAM     CONNECTED     14785    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17187
+unix  2      [ ]         DGRAM                    15972
+unix  3      [ ]         STREAM     CONNECTED     14779
+unix  2      [ ]         DGRAM                    12999
+unix  3      [ ]         STREAM     CONNECTED     14029
+unix  3      [ ]         STREAM     CONNECTED     13832
+unix  3      [ ]         DGRAM                    13007
+unix  2      [ ]         DGRAM                    11296
+unix  3      [ ]         STREAM     CONNECTED     14032    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10980
+unix  3      [ ]         STREAM     CONNECTED     11386    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20076    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20075
+unix  3      [ ]         STREAM     CONNECTED     18537
+unix  3      [ ]         STREAM     CONNECTED     18539    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     10793
+unix  3      [ ]         STREAM     CONNECTED     14404
+unix  2      [ ]         DGRAM                    10534
+unix  2      [ ]         DGRAM                    18544
+unix  3      [ ]         STREAM     CONNECTED     11384    /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM                    13005
+unix  3      [ ]         STREAM     CONNECTED     18077
+unix  3      [ ]         STREAM     CONNECTED     14599
+unix  3      [ ]         STREAM     CONNECTED     14651    /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    14639
+unix  3      [ ]         STREAM     CONNECTED     13833    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     14031    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     14648
+unix  3      [ ]         STREAM     CONNECTED     12928    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     14483
+unix  2      [ ]         DGRAM                    18461
+unix  3      [ ]         STREAM     CONNECTED     14649
+unix  3      [ ]         DGRAM                    13006
+unix  3      [ ]         STREAM     CONNECTED     12869
+unix  2      [ ]         DGRAM                    15963
+unix  3      [ ]         STREAM     CONNECTED     15445
+unix  3      [ ]         STREAM     CONNECTED     13964
+unix  3      [ ]         STREAM     CONNECTED     14569    /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    14548
+unix  3      [ ]         STREAM     CONNECTED     15060    /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    10987
+unix  2      [ ]         DGRAM                    14272
+unix  3      [ ]         STREAM     CONNECTED     18078
+unix  3      [ ]         STREAM     CONNECTED     14650    /var/run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM                    13008
+unix  3      [ ]         STREAM     CONNECTED     18094
+unix  3      [ ]         STREAM     CONNECTED     14553
+unix  3      [ ]         STREAM     CONNECTED     15059
+unix  3      [ ]         STREAM     CONNECTED     18095
+unix  2      [ ]         DGRAM                    17273
+unix  3      [ ]         DGRAM                    11002
+unix  2      [ ]         DGRAM                    15107
+unix  3      [ ]         DGRAM                    11001
+unix  3      [ ]         STREAM     CONNECTED     15516    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     14652    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14543
+unix  3      [ ]         STREAM     CONNECTED     14578    /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     14633
